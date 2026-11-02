@@ -9,6 +9,8 @@ host, and the daemon runs entirely over the network afterwards.
 **Verified on real hardware:** Raspberry Pi 2 Model B rev 1.1 (armv7, no radio),
 Raspberry Pi OS 32-bit (Trixie), `muse-gadget-sdk` 0.1.0 — see [RESULTS.md](RESULTS.md).
 
+Upstream discussion: [facebookincubator/muse-gadget-sdk#301](https://github.com/facebookincubator/muse-gadget-sdk/issues/301).
+
 > Unofficial. Not affiliated with, endorsed by, or supported by Meta. The SDK is
 > Apache-2.0; everything here is the author's own work, MIT-licensed.
 
